@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solutions](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-built-with-htmlcss-grid-j9fEecrauA)
+- Live Site URL: [GitHub Pages](https://johnmcdoe.github.io/testimonials-grid-section-main/)
 
 ## My process
 
