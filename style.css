@@ -121,7 +121,7 @@ body {
         "three"
         "four"
         "five";
-        grid-auto-columns: 1fr;
+    grid-auto-columns: 1fr;
     gap: 2em;
 }
 
